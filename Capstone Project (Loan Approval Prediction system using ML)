@@ -1,0 +1,14 @@
+Proposed Project Title:Loan Approval Prediction System using ML
+Summary of the proposed project idea: My project idea is to develop a machine learning-based loan approval prediction system. Here by analyzing various factors and historical loan data, this method will predict the likelihood of loan approval for applicants will enhance the efficiency and accuracy of the loan approval process, benefiting both lenders and borrowers.
+The motivation behind the proposed project idea: The motivation behind the project idea of a "Loan Approval prediction system using machine learning" is to improve the efficiency and accuracy of the loan approval process by leveraging the power of machine learning algorithms. Currently, the loan approval process is performed manually in different banking sectors, so this system will automate and streamline the loan approval process, reducing human bias and making it faster and more reliable.
+Dataset Name: There are many datasets available but I will be using the Almoiz Society dataset located in our area. Will be shared once finalized.
+Dataset Link: https://drive.google.com/file/d/1eE9CqZnChoNskxUG7247UXtodzYJmeTN/view?usp=drive_link
+Perceived Outcomes of your project: After successful implementation, we will get a system with an improved loan approval process 
+  1. Reduced human bias in decision-making, with high accuracy predictions
+  2. Better risk assessment and mitigation for lenders.
+  3. Increased lending accuracy and reduced default risk.
+  4. Cost and time savings through process automation.
+Team Members: 1 (solo)
+
+
+ML algorithms used for this projectL
